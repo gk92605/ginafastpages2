@@ -8,4 +8,5 @@ This website is powered by **[fastpages](https://github.com/fastai/fastpages)** 
 
 
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+[^1]: This is where I'll update my work in APCSP.
+[^2]: I'll also include my school work and things I've learned in this class. 
