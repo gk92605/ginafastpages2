@@ -10,7 +10,7 @@ title: My first image!
 ---
 ## Here's an image of my little pony!
 
-![IMG_3560.png]({{IMG_3560.png}}/images/gk92605-1.png)
+![IMG_3560.png]({{IMG_3560.png}}/images/IMG_3560.png)
 
 
 
